@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am an ecological geneticist primarily interested in the development and application of genetics, genomics, and bioinformatics tools in conservation.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a PhD in Wildlife Genetics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+david_thuo@yahoo.com
